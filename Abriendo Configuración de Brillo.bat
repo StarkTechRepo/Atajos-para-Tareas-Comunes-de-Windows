@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Configuración de Brillo...
+start ms-settings:display-brightness
