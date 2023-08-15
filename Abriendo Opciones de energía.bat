@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Opciones de energía...
+powercfg.cpl

@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Windows PowerShell...
+start powershell.exe

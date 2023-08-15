@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Configuración de Restauración...
+control.exe /name Microsoft.BackupAndRestore

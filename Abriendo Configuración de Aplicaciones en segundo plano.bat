@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Configuración de Aplicaciones en segundo plano...
+start ms-settings:privacy-backgroundapps

@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Cuentas de usuario...
+control userpasswords2

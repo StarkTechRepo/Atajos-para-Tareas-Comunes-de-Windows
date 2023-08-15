@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Programas y características...
+appwiz.cpl

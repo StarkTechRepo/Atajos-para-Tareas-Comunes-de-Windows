@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Carpeta Temp...
+start %temp%

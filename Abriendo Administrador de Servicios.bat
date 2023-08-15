@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Administrador de Servicios...
+services.msc

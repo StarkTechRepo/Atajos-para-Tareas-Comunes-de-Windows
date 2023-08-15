@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Configuración de Fecha y Hora...
+timedate.cpl

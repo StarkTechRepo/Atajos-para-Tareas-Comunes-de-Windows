@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Carpeta de Programas del Menú Común...
+shell:Common Programs

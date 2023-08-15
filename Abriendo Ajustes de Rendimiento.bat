@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Ajustes de Rendimiento...
+SystemPropertiesPerformance.exe

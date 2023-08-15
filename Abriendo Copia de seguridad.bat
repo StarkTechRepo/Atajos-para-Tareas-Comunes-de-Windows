@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Copia de seguridad...
+sdclt.exe

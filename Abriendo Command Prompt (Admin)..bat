@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Command Prompt (Admin)...
+start cmd.exe /k "title Command Prompt (Admin) && color 0a && echo Ejecutando en modo administrador..."

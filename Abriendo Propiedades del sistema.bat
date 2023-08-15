@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Propiedades del sistema...
+sysdm.cpl

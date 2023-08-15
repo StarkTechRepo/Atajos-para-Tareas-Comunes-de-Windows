@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Dispositivos e impresoras...
+control printers

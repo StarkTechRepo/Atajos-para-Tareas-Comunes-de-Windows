@@ -1,0 +1,3 @@
+@echo off
+echo Creando un punto de restauración...
+wmic.exe /Namespace:\\root\default Path SystemRestore Call CreateRestorePoint "Punto de restauración generado por el usuario", 100, 7

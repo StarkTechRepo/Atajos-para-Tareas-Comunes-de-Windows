@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Centro de Movilidad de Windows...
+mblctr.exe

@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Panel de control...
+control

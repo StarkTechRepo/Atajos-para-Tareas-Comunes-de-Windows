@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Monitor de rendimiento...
+perfmon

@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Editor de Registro...
+regedit

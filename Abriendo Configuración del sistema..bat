@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Configuración del sistema...
+msconfig

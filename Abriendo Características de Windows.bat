@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Características de Windows...
+optionalfeatures

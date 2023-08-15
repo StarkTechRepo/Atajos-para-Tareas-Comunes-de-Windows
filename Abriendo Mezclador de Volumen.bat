@@ -1,0 +1,3 @@
+@echo off
+echo Abriendo Mezclador de Volumen...
+sndvol
