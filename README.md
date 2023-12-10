@@ -39,8 +39,6 @@
 - [Abriendo Windows PowerShell.bat](Abriendo%20Windows%20PowerShell.bat)
 - [Abrir Bios desde Windows (solo UEFI).bat](Abrir%20Bios%20desde%20Windows%20%28solo%20UEFI%29.bat)
 - [Creando un punto de restauraci¢n.bat](Creando%20un%20punto%20de%20restauraci%C2%A2n.bat)
-- [listar_archivos.bat](listar_archivos.bat)
-- [lista_archivos.txt](lista_archivos.txt)
 - [Reiniciando el Explorador de Windows.bat](Reiniciando%20el%20Explorador%20de%20Windows.bat)
 
 # Licencia 
