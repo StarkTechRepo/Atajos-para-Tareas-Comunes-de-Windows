@@ -1,5 +1,7 @@
 
-# Atajos para Acceder Rápidamente
+# Atajos para Acceder Rápidamente 🚀
+
+Facilita tu experiencia con estos atajos para acceder rápidamente a configuraciones y herramientas clave del sistema. Desde administradores hasta opciones de energía, encuentra lo que necesitas con un solo clic.
 
 - [Abriendo Administrador de Dispositivos.bat](Abriendo%20Administrador%20de%20dispositivos.bat)
 - [Abriendo Administrador de Servicios.bat](Abriendo%20Administrador%20de%20Servicios.bat)
